@@ -5,7 +5,7 @@
 
 My Github Stats: 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbg184&layout=compact&hide=css,html&theme=transparent" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 - 🔭 I’m currently working on ...
